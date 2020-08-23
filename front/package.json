@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "subi",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "dev": "next"
   },
   "dependencies": {
